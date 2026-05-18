@@ -1,4 +1,4 @@
-# ToyBox Ticket Bot Community
+# OpenTickets
 
 Versao publica de portfolio de um bot de tickets para Discord.
 
