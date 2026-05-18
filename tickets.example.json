@@ -1,0 +1,18 @@
+{
+  "last_ticket_id": 1,
+  "tickets": {
+    "1234567890123456789": {
+      "ticket_id": "00001",
+      "thread_id": 1234567890123456789,
+      "user_id": 111111111111111111,
+      "source_channel_id": 222222222222222222,
+      "category": "atendimento",
+      "subject": "Exemplo de assunto",
+      "report": "Exemplo de relato enviado pelo usuario.",
+      "status": "closed",
+      "opened_at": "2026-01-01T12:00:00+00:00",
+      "closed_at": "2026-01-01T12:30:00+00:00"
+    }
+  },
+  "cooldowns": {}
+}
