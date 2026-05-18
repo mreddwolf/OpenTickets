@@ -1,11 +1,11 @@
 {
   "last_ticket_id": 1,
   "tickets": {
-    "1234567890123456789": {
+    "0": {
       "ticket_id": "00001",
-      "thread_id": 1234567890123456789,
-      "user_id": 111111111111111111,
-      "source_channel_id": 222222222222222222,
+      "thread_id": 0,
+      "user_id": 0,
+      "source_channel_id": 0,
       "category": "atendimento",
       "subject": "Exemplo de assunto",
       "report": "Exemplo de relato enviado pelo usuario.",
